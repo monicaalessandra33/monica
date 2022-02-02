@@ -1,0 +1,1 @@
+//utilizei esse método para faciliatar a interpretação das rotas
